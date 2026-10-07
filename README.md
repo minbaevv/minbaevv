@@ -54,5 +54,6 @@ They are not presented as production-ready services.
 
 ## Contact
 
-[Email](mailto:duishekeevkubanychbek@gmail.com) ·
+[Telegram](https://t.me/d_kubanychbek) ·
+[Gmail](mailto:duishekeevkubanychbek@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/kubanychbek-duishekeev-7b9872427/)
