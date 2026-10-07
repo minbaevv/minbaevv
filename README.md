@@ -47,7 +47,7 @@ Technologies I use in projects or study through hands-on practice:
 
 ### 🚀 Featured Projects
 
-#### 🧠 HireLens — AI Recruitment MVP
+#### 🧠 [HireLens — AI Recruitment MVP](https://github.com/minbaevv/hirelens-showcase)
 
 An independently developed MVP supporting vacancy management,
 candidate workflows, AI-assisted interviews, and HR review.
@@ -72,7 +72,7 @@ a temporary test instance to a Contabo VPS.
 AI output supports human review and is not presented as a validated
 replacement for hiring decisions.
 
-#### 📰 AlKa Media — Bilingual News Portal
+#### 📰 [AlKa Media — Bilingual News Portal](https://github.com/minbaevv/alka-media-showcase)
 
 A news portal with Russian and Kyrgyz content.
 
