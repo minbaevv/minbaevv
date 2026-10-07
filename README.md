@@ -27,15 +27,20 @@ Technologies I use in projects or study through hands-on practice:
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Language** | Python |
-| **Backend & APIs** | FastAPI, Django REST Framework, Pydantic, REST, HTTP, WebSocket |
-| **Databases & ORM** | PostgreSQL, SQLite, Redis, MongoDB, SQLAlchemy, Alembic |
-| **LLM & AI Integrations** | Anthropic Claude API, Groq API, Whisper, LangChain, LangGraph |
-| **Machine Learning** | scikit-learn, PyTorch, Linear Regression, Logistic Regression |
-| **Computer Vision** | OpenCV, MediaPipe, YOLO, torchvision |
+| **Languages** | Python, SQL |
+| **Backend Frameworks** | FastAPI, Django, Django REST Framework, Pydantic |
+| **APIs & Authentication** | REST API, HTTP, WebSockets, JWT, OAuth2 |
+| **Backend Concepts** | Async Python, Dependency Injection, API Architecture, Microservices |
+| **Databases** | PostgreSQL, SQLite, MongoDB, Redis |
+| **ORM & Migrations** | SQLAlchemy, Django ORM, Alembic, Database Migrations |
+| **LLM & AI Integrations** | Anthropic Claude API, Groq API, Whisper, LangChain, LangGraph, Dify, Ollama |
+| **AI Concepts** | LLM Applications, Retrieval-Augmented Generation (RAG), Embeddings |
+| **Machine Learning & Deep Learning** | scikit-learn, PyTorch, Linear Regression, Logistic Regression, Neural Networks |
+| **Computer Vision** | OpenCV, MediaPipe, YOLO, torchvision, Image Processing, Object Detection |
 | **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Apps & Automation** | Streamlit, Aiogram, Dify, n8n |
-| **Tools & Infrastructure** | Git, Linux, Docker, Docker Compose, Postman, pytest |
+| **Apps & Automation** | Streamlit, Aiogram, n8n |
+| **Infrastructure** | Docker, Docker Compose, Linux, Nginx, AWS |
+| **Development Tools** | Git, GitHub, Postman, pytest |
 | **Frontend in My Projects** | React, Vite, Tailwind CSS — AI-assisted development |
 
 ---
@@ -126,22 +131,6 @@ Python Backend & AI Development · 2026–present
 - [Problem Solving (Intermediate) — HackerRank](https://www.hackerrank.com/certificates/303f9b7469b9)
 - [Claude Platform 101 — Anthropic](https://academy.claude.com/verify/ad3a756174c3b2a306c9b6aeef8951c9)
 - [Introduction to Model Context Protocol — Anthropic](https://academy.claude.com/verify/d8ea0d22d3b5acf9dcb5623d10c57c55)
-
----
-
-### 📊 GitHub Metrics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minbaevv&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbaevv&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Languages in public repositories" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=minbaevv&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
-</p>
-
-Language statistics describe repository contents, not proficiency.
-Cards are provided by third-party services and may be temporarily unavailable.
 
 ---
 
