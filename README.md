@@ -3,6 +3,12 @@
 **Python Backend & AI Developer** 🚀  
 📍 Bishkek, Kyrgyzstan
 
+<p align="center">
+  <a href="https://github.com/minbaevv">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Python+Backend+%26+AI+Developer;FastAPI+%7C+Django+DRF+%7C+PostgreSQL;LLM+Integrations+%7C+RAG+%7C+LangChain;Building+APIs+and+shipping+practical+AI" alt="Typing SVG" />
+  </a>
+</p>
+
 I build Python APIs and integrate AI services into practical applications.
 My projects include an independently developed AI recruitment MVP,
 a bilingual news portal backend, and educational backend and ML applications.
@@ -22,6 +28,13 @@ Currently studying **Python Backend & AI development at Motion Web IT Academy**.
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,sqlite,mongodb,redis,docker,linux,nginx,git,github&perline=12" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,langchain,react,vite,tailwind,aws,bash&perline=12" />
+</p>
 
 Technologies I use in projects or study through hands-on practice:
 
