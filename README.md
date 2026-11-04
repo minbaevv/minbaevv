@@ -1,4 +1,3 @@
- ```markdown
 <p align="center">
   <img src="https://media.giphy.com/media/LnKonfpQ44fNvuGLkA/giphy.gif" width="520" />
 </p>
@@ -83,4 +82,3 @@ src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp
 <p align="center">
   <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="420" />
 </p>
- ```
