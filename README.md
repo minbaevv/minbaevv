@@ -1,164 +1,86 @@
-# Hi there, I'm Kubanychbek Duishekeev 👋
+ ```markdown
+<p align="center">
+  <img src="https://media.giphy.com/media/LnKonfpQ44fNvuGLkA/giphy.gif" width="520" />
+</p>
 
-**Python Backend & AI Developer** 🚀  
-📍 Bishkek, Kyrgyzstan
+<h1 align="center">Kubanychbek Duishekeev 👋</h1>
 
 <p align="center">
   <a href="https://github.com/minbaevv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Python+Backend+%26+AI+Developer;FastAPI+%7C+Django+DRF+%7C+PostgreSQL;LLM+Integrations+%7C+RAG+%7C+LangChain;Building+APIs+and+shipping+practical+AI" alt="Typing SVG" />
+    <img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2E9EF7&center=true&vCent
+er=true&width=700&lines=Python+Backend+%26+AI+Developer;FastAPI+%7C+Django+DRF+%7C+PostgreSQL;LLM+%7C+RAG+%7C+Whisper+
+%7C+Computer+Vision" alt="Typing SVG" />
   </a>
 </p>
 
-I build Python APIs and integrate AI services into practical applications.
-My projects include an independently developed AI recruitment MVP,
-a bilingual news portal backend, and educational backend and ML applications.
+<p align="center">Bishkek 🇰🇬 · Building APIs that ship with AI inside</p>
 
-Currently studying **Python Backend & AI development at Motion Web IT Academy**.
+<p align="right">
+  <img src="photo.jpg" width="170" alt="Kubanychbek" />
+</p>
 
----
-
-### 💼 Focus & Experience
-
-- 🛠️ **Current Focus:** Building backend APIs, integrating LLM services, and improving application reliability.
-- ⚡ **Backend:** FastAPI, Django REST Framework, authentication, database modeling, SQLAlchemy, and Alembic.
-- 🧠 **AI / ML:** Claude and Groq API integrations, Whisper speech recognition, image classification, and practical machine-learning projects.
-- 🔬 **Additional Practice:** LangChain, LangGraph, OpenCV, MediaPipe, and YOLO.
-- 🐳 **Tools & Infrastructure:** Git, Linux, Docker, Docker Compose, testing, and VPS deployment.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
+## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,sqlite,mongodb,redis,docker,linux,nginx,git,github&perline=12" />
+  <img
+src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,linux,nginx,git,github,pytorch,sklearn
+,opencv,langchain,bash&perline=15" />
 </p>
+
+**Backend:** FastAPI, DRF, Pydantic, SQLAlchemy, Alembic, JWT/RBAC, WebSockets
+**AI/ML:** Claude API, Groq, Whisper, RAG, LangChain, PyTorch, YOLO
+**Data:** PostgreSQL, SQLite, MongoDB, Redis, Pandas
+
+## 🚀 Projects
+
+| Project | What | Stack |
+|---|---|---|
+| **HireLens** — AI recruitment MVP | 100+ API routes, 28 Alembic migrations, 224 tests, Claude+Groq fallback,
+Whisper, Kanban, PDF/Excel, deployed on Contabo VPS | FastAPI, PostgreSQL, React |
+| **AlKa Media** — [alkamedia.kg](https://alkamedia.kg) | Bilingual RU/KY news portal: articles, drafts, search,
+moderation, uploads | FastAPI, SQLite, React |
+| **Public APIs** — [FastAPIStore](https://github.com/minbaevv/FastAPIStore),
+[NetworkProject](https://github.com/minbaevv/NetworkProject), [MovieProject](https://github.com/minbaevv/MovieProject)
++ 3 more | E-commerce, social network, marketplace, booking, Airbnb-style APIs | FastAPI / Django DRF |
+| **ML/CV** — [PredictClothes](https://github.com/minbaevv/PredictClothes),
+[BankPredict](https://github.com/minbaevv/BankPredict), [PredictNumber](https://github.com/minbaevv/PredictNumber) |
+CNN image classification, loan prediction, digit recognition | PyTorch, scikit-learn, Streamlit |
+
+> Source of HireLens & AlKa — private. Showcases on GitHub.
+
+## 📊 GitHub Pulse
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,langchain,react,vite,tailwind,aws,bash&perline=12" />
+  <img
+src="https://github-readme-stats.vercel.app/api?username=minbaevv&show_icons=true&theme=radical&hide_border=true" />
+  <img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbaevv&layout=compact&theme=radical&hide_border=
+true" />
+  <img src="https://streak-stats.demolab.com?user=minbaevv&theme=radical&hide_border=true" />
 </p>
 
-Technologies I use in projects or study through hands-on practice:
+## 🎓 Certs
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL |
-| **Backend Frameworks** | FastAPI, Django, Django REST Framework, Pydantic |
-| **APIs & Authentication** | REST API, HTTP, WebSockets, JWT, OAuth2 |
-| **Backend Concepts** | Async Python, Dependency Injection, API Architecture, Microservices |
-| **Databases** | PostgreSQL, SQLite, MongoDB, Redis |
-| **ORM & Migrations** | SQLAlchemy, Django ORM, Alembic, Database Migrations |
-| **LLM & AI Integrations** | Anthropic Claude API, Groq API, Whisper, LangChain, LangGraph, Dify, Ollama |
-| **AI Concepts** | LLM Applications, Retrieval-Augmented Generation (RAG), Embeddings |
-| **Machine Learning & Deep Learning** | scikit-learn, PyTorch, Linear Regression, Logistic Regression, Neural Networks |
-| **Computer Vision** | OpenCV, MediaPipe, YOLO, torchvision, Image Processing, Object Detection |
-| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Apps & Automation** | Streamlit, Aiogram, n8n |
-| **Infrastructure** | Docker, Docker Compose, Linux, Nginx, AWS |
-| **Development Tools** | Git, GitHub, Postman, pytest |
-| **Frontend in My Projects** | React, Vite, Tailwind CSS — AI-assisted development |
+HackerRank REST API (Intermediate) · Problem Solving (Intermediate) · Anthropic Claude Platform 101 · MCP —
+[verify](https://academy.claude.com/verify/ad3a756174c3b2a306c9b6aeef8951c9)
 
----
+Motion Web IT Academy — Python Backend & AI, 2026–present
 
-### 🚀 Featured Projects
+## 🤝 Contact
 
-#### 🧠 [HireLens — AI Recruitment MVP](https://github.com/minbaevv/hirelens-showcase)
-
-An independently developed MVP supporting vacancy management,
-candidate workflows, AI-assisted interviews, and HR review.
-
-**Implemented in the source:**
-- Vacancy, candidate, and team management
-- AI provider integrations through Anthropic and Groq SDKs
-- Speech-to-text integration using Whisper
-- HR dashboard, Kanban workflows, and analytics
-- PDF and Excel reporting
-- Authentication and role-based access
-
-**Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic,
-React, Vite, Tailwind CSS, Docker Compose.
-
-**My contribution:** Independently developed the MVP and deployed
-a temporary test instance to a Contabo VPS.
-
-🔒 **Source code is private.**  
-⏸️ Previously tested on a VPS for one month; currently offline.
-
-AI output supports human review and is not presented as a validated
-replacement for hiring decisions.
-
-#### 📰 [AlKa Media — Bilingual News Portal](https://github.com/minbaevv/alka-media-showcase)
-
-A news portal with Russian and Kyrgyz content.
-
-**Implemented in the source:**
-- Article management with draft and published states
-- Bilingual article fields
-- Search, filtering, and pagination
-- Administrative authentication
-- Image uploads
-- Comments and moderation
-
-**Stack:** Python, FastAPI, SQLite, React, Vite, Tailwind CSS.
-
-**My contribution:** Developed the backend.
-The React/Vite frontend was built with AI assistance.
-
-🔒 **Source code is private.**  
-🌐 **Website:** [alkamedia.kg](https://alkamedia.kg) — availability may change.
-
----
-
-### 🐍 Public Backend Projects
-
-| Project | Description | Main Stack |
-| :--- | :--- | :--- |
-| [FastAPIStore](https://github.com/minbaevv/FastAPIStore) | E-commerce API with authentication, catalog modules, reviews, and admin integration | FastAPI, SQLAlchemy, Alembic |
-| [NetworkProject](https://github.com/minbaevv/NetworkProject) | Social-network API with posts, comments, likes, follows, and stories | Django REST Framework, SimpleJWT |
-| [WildberriesProject](https://github.com/minbaevv/WildberriesProject) | Educational marketplace API with products, reviews, and carts | Django REST Framework |
-| [airbnbProject](https://github.com/minbaevv/airbnbProject) | Property-rental API with listings, bookings, and reviews | Django REST Framework |
-| [BookingProjectss](https://github.com/minbaevv/BookingProjectss) | Hotel and room booking API | Django REST Framework |
-| [MovieProject](https://github.com/minbaevv/MovieProject) | Movie-catalog API with ratings, favorites, and history | Django REST Framework |
-
-These are educational implementations, not production-ready services.
-Brand-inspired projects are independent and unaffiliated with those brands.
-
-### 🤖 Public ML & Computer Vision Projects
-
-| Project | Description | Main Stack |
-| :--- | :--- | :--- |
-| [BankPredict](https://github.com/minbaevv/BankPredict) | Educational loan-approval prediction API with a web interface | FastAPI, scikit-learn, Streamlit |
-| [PredictClothes](https://github.com/minbaevv/PredictClothes) | Clothing-image classification using a CNN | PyTorch, FastAPI |
-| [PredictNumber](https://github.com/minbaevv/PredictNumber) | Handwritten-digit recognition | PyTorch, FastAPI |
-| [All_Models_Predict](https://github.com/minbaevv/All_Models_Predict) | API grouping several image-classification routers | FastAPI |
-
-These projects demonstrate learning and implementation practice.
-Model quality and runtime behavior require project-specific evaluation.
-
----
-
-### 🎓 Education & Certificates
-
-**Motion Web IT Academy**  
-Python Backend & AI Development · 2026–present
-
-- [REST API (Intermediate) — HackerRank](https://www.hackerrank.com/certificates/c3aadad2687d)
-- [Problem Solving (Intermediate) — HackerRank](https://www.hackerrank.com/certificates/303f9b7469b9)
-- [Claude Platform 101 — Anthropic](https://academy.claude.com/verify/ad3a756174c3b2a306c9b6aeef8951c9)
-- [Introduction to Model Context Protocol — Anthropic](https://academy.claude.com/verify/d8ea0d22d3b5acf9dcb5623d10c57c55)
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kubanychbek-duishekeev-7b9872427/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/d_kubanychbek">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:duishekeevkubanychbek@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kubanychbek-duishekeev-7b9872427/"><img
+src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/d_kubanychbek"><img
+src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:duishekeevkubanychbek@gmail.com"><img
+src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+996700121370"><img
+src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-📧 **Email:** [duishekeevkubanychbek@gmail.com](mailto:duishekeevkubanychbek@gmail.com)
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="420" />
+</p>
+ ```
