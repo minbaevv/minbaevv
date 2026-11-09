@@ -1,0 +1,13 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bgGrad)"/>
+  <path d="M0,172 C200,150 350,195 600,175 C850,155 1000,195 1200,172 L1200,200 L0,200 Z" fill="#0d1117" opacity="0.4"/>
+  <text x="600" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">Kubanychbek Duishekeev</text>
+  <text x="600" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9fd3ff" text-anchor="middle">Python &amp; AI Backend Developer</text>
+</svg>
