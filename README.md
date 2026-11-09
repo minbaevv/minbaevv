@@ -1,5 +1,5 @@
 <a href="https://github.com/minbaevv">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Kubanychbek%20Duishekeev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%26%20AI%20Backend%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="assets/banner.svg" width="100%"/>
 </a>
 
 <p align="center">
@@ -23,10 +23,11 @@
 
 I'm a backend developer based in **Bishkek, Kyrgyzstan**, focused on shipping production APIs with AI wired directly into the core logic — not bolted on as an afterthought.
 
-- 🔭 Currently building **HireLens** — an AI-powered recruitment platform (Claude + Groq + Whisper)
+- 🔭 Currently building **HireLens** — an AI recruitment MVP with 2 LLM providers (Claude, Groq) behind retry/fallback, plus Whisper transcription
 - 🌐 Maintaining **AlKa Media** — a bilingual RU/KY news portal, live at [alkamedia.kg](https://alkamedia.kg)
-- 🧠 Deep in **RAG pipelines, LLM orchestration & backend architecture**
-- 🎓 Studying Python Backend & AI at **Motion Web IT Academy** (2026–present)
+- 🧠 Deep in **LLM orchestration (LangChain/LangGraph), REST API design & auth (JWT/RBAC)**
+- 🎓 Studying Python Backend & AI at **Motion Web IT Academy** (Aug 2025 – Nov 2026)
+- 🗣️ Kyrgyz (native) · Russian (advanced) · English (A2)
 - 📫 Reach me at **duishekeevkubanychbek@gmail.com**
 
 <br/>
@@ -35,28 +36,36 @@ I'm a backend developer based in **Bishkek, Kyrgyzstan**, focused on shipping pr
 
 <table align="center">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Backend**
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JWT%2FRBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/> <img src="https://img.shields.io/badge/JWT%2FRBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-**AI / ML**
+**AI & Automation**
 
 <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-**Data & Infra**
+**Data & ML**
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black"/>
+
+</td>
+<td valign="top" width="25%">
+
+**Infra & Tools**
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
 
 </td>
 </tr>
@@ -116,8 +125,8 @@ I'm a backend developer based in **Bishkek, Kyrgyzstan**, focused on shipping pr
 ### 📊 GitHub analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=minbaevv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="165em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=minbaevv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=minbaevv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbaevv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </p>
 
 <p align="center">
@@ -141,6 +150,6 @@ I'm a backend developer based in **Bishkek, Kyrgyzstan**, focused on shipping pr
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+<img src="assets/footer.svg" width="100%"/>
 
 <p align="center"><sub>Thanks for stopping by — open to backend & AI collaborations 🤝</sub></p>
