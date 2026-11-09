@@ -1,5 +1,5 @@
 <a href="https://github.com/minbaevv">
-  <img src="assets/banner.svg" width="100%"/>
+  <img src="banner.svg" width="100%"/>
 </a>
 
 <p align="center">
@@ -150,6 +150,6 @@ I'm a backend developer based in **Bishkek, Kyrgyzstan**, focused on shipping pr
 
 <br/>
 
-<img src="assets/footer.svg" width="100%"/>
+<img src="footer.svg" width="100%"/>
 
 <p align="center"><sub>Thanks for stopping by — open to backend & AI collaborations 🤝</sub></p>
